@@ -1,0 +1,282 @@
+{
+    "basics": {
+        "headline": "Head Of The Auror Office",
+        "name": "Harry Potter",
+        "availability": "Immediately",
+        "birth": "1980-07-31",
+        "driverLicenses": ["Broom License"],
+        "contact": {
+            "email": "harry.potter@ministryofmagic.gov.uk",
+            "phone": "+44-20-0000-1998",
+            "website": "https://www.harrypotter.example"
+        },
+        "picture": "https://example.com/harry-potter.jpg",
+        "location": {
+            "city": "London",
+            "countryCode": "UK",
+            "region": "Greater London",
+            "postalCode": "WC2N",
+            "address": "12 Grimmauld Place"
+        },
+        "nationalities": ["UK"],
+        "profiles": [{
+            "network": "Wizarding Network",
+            "url": "https://www.wiznet.example/harry-potter",
+            "username": "harry-potter"
+        }],
+        "summary": "Auror and leader recognized for courage, strategic thinking, and dedication to justice. Led critical operations during and after the Second Wizarding War; rebuilt and modernized the Auror Office with a focus on training, ethics, and community safety.",
+        "website": "https://www.harrypotter.example",
+        "remote": false
+    },
+    "work": [{
+            "organization": {
+                "name": "Ministry Of Magic",
+                "location": {
+                    "city": "London",
+                    "countryCode": "UK",
+                    "region": "Greater London"
+                },
+                "description": "Central Government For The British Wizarding Community."
+            },
+            "position": "Head Of The Auror Office",
+            "startDate": "2007",
+            "summary": "Directed national magical law enforcement, policy, and high-risk operations. Championed reforms in investigative practice and training standards.",
+            "highlights": [
+                "Established Modern Auror Training Curriculum",
+                "Reduced Dark Artefact Incidents Through Proactive Operations",
+                "Implemented Ethics And Accountability Framework"
+            ],
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "tags": ["Leadership", "Operations", "Law Enforcement", "Training"],
+            "url": "https://www.ministryofmagic.example"
+        },
+        {
+            "organization": {
+                "name": "Ministry Of Magic",
+                "location": {
+                    "city": "London",
+                    "countryCode": "UK",
+                    "region": "Greater London"
+                },
+                "description": "Central Government For The British Wizarding Community."
+            },
+            "position": "Auror",
+            "startDate": "1998",
+            "endDate": "2007",
+            "summary": "Conducted investigations, field operations, and interdictions against Dark Wizards in the post-war period.",
+            "highlights": [
+                "Led High-Profile Arrests Of Remaining Death Eaters",
+                "Developed Field Protocols For Cursed Object Handling",
+                "Mentored Junior Aurors"
+            ],
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "tags": ["Investigations", "Field Operations", "Training"]
+        }
+    ],
+    "projects": [{
+            "name": "Dumbledore's Army",
+            "position": "Founder And Instructor",
+            "organization": {
+                "name": "Hogwarts School Of Witchcraft And Wizardry",
+                "location": {
+                    "city": "Hogsmeade",
+                    "countryCode": "UK",
+                    "region": "Highlands"
+                },
+                "description": "Boarding School For Magical Education."
+            },
+            "summary": "Organized and led a clandestine student group to learn practical defence, leadership, and teamwork under oppressive conditions.",
+            "startDate": "1995",
+            "endDate": "1998",
+            "status": "Completed",
+            "highlights": [
+                "Trained Peers In Practical Defence Techniques",
+                "Coordinated School-Wide Resistance Activities",
+                "Built A Culture Of Mutual Support And Preparedness"
+            ],
+            "location": {
+                "city": "Hogsmeade",
+                "countryCode": "UK"
+            },
+            "tags": ["Education", "Leadership", "Strategy"],
+            "type": "Education Initiative",
+            "url": "https://www.hogwarts.example/da"
+        },
+        {
+            "name": "Hogwarts Defence Initiative",
+            "position": "Strategic Advisor",
+            "organization": {
+                "name": "Hogwarts School Of Witchcraft And Wizardry",
+                "location": {
+                    "city": "Hogsmeade",
+                    "countryCode": "UK",
+                    "region": "Highlands"
+                },
+                "description": "Boarding School For Magical Education."
+            },
+            "summary": "Advised staff on campus safety, curriculum improvements, and readiness following the Battle Of Hogwarts.",
+            "startDate": "1998",
+            "status": "Active",
+            "highlights": [
+                "Helped Define Post-War Safety Protocols",
+                "Supported Faculty In Practical Defence Curriculum",
+                "Established Annual Readiness Drills"
+            ],
+            "location": {
+                "city": "Hogsmeade",
+                "countryCode": "UK"
+            },
+            "tags": ["Policy", "Training", "Safety"],
+            "type": "Advisory",
+            "url": "https://www.hogwarts.example/defence"
+        }
+    ],
+    "awards": [{
+        "title": "Order Of Merlin First Class",
+        "issuer": {
+            "name": "Ministry Of Magic",
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "description": "National Honour Recognizing Exceptional Bravery And Service."
+        },
+        "date": "1998",
+        "location": {
+            "city": "London",
+            "countryCode": "UK"
+        },
+        "summary": "Conferred for heroism and leadership during the Second Wizarding War.",
+        "tags": ["Bravery", "Service"]
+    }],
+    "certificates": [{
+        "date": "1999",
+        "issuer": {
+            "name": "Ministry Of Magic",
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "description": "Central Government For The British Wizarding Community."
+        },
+        "name": "Auror Training Programme",
+        "summary": "Completed intensive fieldcraft, investigative practice, and legal procedure training.",
+        "url": "https://www.ministryofmagic.example/auror",
+        "tags": ["Law Enforcement", "Training"]
+    }],
+    "education": [{
+        "area": "Defence Against The Dark Arts",
+        "organization": {
+            "name": "Hogwarts School Of Witchcraft And Wizardry",
+            "location": {
+                "city": "Hogsmeade",
+                "countryCode": "UK"
+            },
+            "description": "Boarding School For Magical Education."
+        },
+        "startDate": "1991",
+        "endDate": "1998",
+        "type": "Secondary Education",
+        "location": {
+            "city": "Hogsmeade",
+            "countryCode": "UK"
+        },
+        "url": "https://www.hogwarts.example"
+    }],
+    "languages": [{
+            "name": "English",
+            "fluency": "Native",
+            "countryCode": "UK"
+        },
+        {
+            "name": "Parseltongue",
+            "fluency": "Conversational"
+        }
+    ],
+    "skills": [{
+            "name": "Defence Magic",
+            "level": "Expert",
+            "yearsOfExperience": 10,
+            "tags": ["Duelling", "Shield Charms", "Patronus"]
+        },
+        {
+            "name": "Leadership",
+            "level": "Advanced",
+            "yearsOfExperience": 8,
+            "tags": ["Team Building", "Mentorship", "Crisis Management"]
+        },
+        {
+            "name": "Investigations",
+            "level": "Advanced",
+            "yearsOfExperience": 7,
+            "tags": ["Fieldwork", "Interviews", "Evidence Handling"]
+        },
+        {
+            "name": "Flying",
+            "level": "Advanced",
+            "yearsOfExperience": 12,
+            "tags": ["Broom Handling", "Aerial Maneuvers"]
+        }
+    ],
+    "interests": [{
+            "name": "Quidditch",
+            "summary": "Former Seeker with a passion for fair play, agility, and teamwork.",
+            "tags": ["Sports", "Teamwork"]
+        },
+        {
+            "name": "Teaching",
+            "summary": "Enjoys mentoring young witches and wizards in practical defence.",
+            "tags": ["Education", "Mentorship"]
+        },
+        {
+            "name": "Family",
+            "summary": "Committed to a balanced life focused on community and support.",
+            "tags": ["Community"]
+        }
+    ],
+    "publications": [{
+        "name": "The Truth About Voldemort's Return",
+        "date": "1996",
+        "summary": "Interview detailing the return of Voldemort and the need for vigilance.",
+        "publisher": {
+            "name": "The Quibbler",
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "description": "Independent Wizarding News Magazine."
+        },
+        "authors": ["Harry Potter"],
+        "type": "Interview",
+        "url": "https://www.quibbler.example/issues/1996-truth",
+        "tags": ["Public Awareness", "Journalism"]
+    }],
+    "references": [{
+        "date": "2007",
+        "name": "Kingsley Shacklebolt",
+        "position": "Minister For Magic",
+        "organization": {
+            "name": "Ministry Of Magic",
+            "location": {
+                "city": "London",
+                "countryCode": "UK"
+            },
+            "description": "Central Government For The British Wizarding Community."
+        },
+        "contact": {
+            "email": "kingsley.shacklebolt@ministryofmagic.gov.uk"
+        },
+        "testimonial": "Harry Demonstrates Integrity, Courage, And Sound Judgment Under Pressure."
+    }],
+    "meta": {
+        "canonical": "https://www.harrypotter.example/resume",
+        "lastModified": "2025-08-13",
+        "schema": "@universal-resume/v1.2.0"
+    }
+}
