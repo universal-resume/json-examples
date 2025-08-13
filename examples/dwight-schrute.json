@@ -1,255 +1,229 @@
 {
     "basics": {
-        "headline": "Assistant To The Regional Manager",
+        "headline": "Assistant to the Regional Manager",
         "name": "Dwight Schrute",
-        "availability": "Immediately",
-        "birth": "1970-01-20",
-        "driverLicenses": ["US Class C"],
-        "contact": {
-            "email": "dwight.schrute@dundermifflin.com",
-            "phone": "+1-570-555-0101",
-            "website": "https://www.schrutefarms.com"
-        },
-        "picture": "https://example.com/dwight.jpg",
+        "availability": "Two Weeks",
         "location": {
             "city": "Scranton",
             "countryCode": "US",
-            "region": "Pennsylvania",
-            "postalCode": "18503",
-            "address": "1725 Slough Avenue"
+            "region": "Pennsylvania"
         },
-        "nationalities": ["US"],
+        "contact": {
+            "email": "dwight.schrute@example.com",
+            "phone": "+15705550100",
+            "linkedin": "https://www.linkedin.com/in/dwight-schrute"
+        },
+        "summary": "Top-performing paper salesman and beet farmer known for relentless work ethic, encyclopedic policy knowledge, and unconventional (yet effective) leadership tactics. Expert in prospecting, territory defense, risk mitigation, and farm-to-table operations.",
         "profiles": [{
-            "network": "LinkedIn",
-            "url": "https://www.linkedin.com/in/dwight-schrute",
-            "username": "dwight-schrute"
-        }],
-        "summary": "Diligent paper sales professional and beet farm owner renowned for record-breaking sales, operational discipline, and unflinching commitment to team performance. Frequently entrusted with leadership responsibilities including acting Regional Manager and Assistant To The Regional Manager at Dunder Mifflin Scranton.",
-        "website": "https://www.schrutefarms.com",
+                "network": "LinkedIn",
+                "url": "https://www.linkedin.com/in/dwight-schrute",
+                "username": "dwight-schrute"
+            },
+            {
+                "network": "Instagram",
+                "url": "https://www.instagram.com/schrutefarms",
+                "username": "schrutefarms"
+            },
+            {
+                "network": "X",
+                "url": "https://x.com/D_Schrute",
+                "username": "D_Schrute"
+            }
+        ],
         "remote": false
     },
-    "work": [{
+    "employments": [{
+            "type": "internal",
             "organization": {
-                "name": "Dunder Mifflin Paper Company",
+                "name": "Dunder Mifflin Scranton Branch",
                 "location": {
                     "city": "Scranton",
-                    "countryCode": "US",
-                    "region": "Pennsylvania"
+                    "countryCode": "US"
                 },
-                "description": "Regional branch of a mid-size paper distributor serving Northeastern Pennsylvania."
+                "description": "Regional office of a mid-sized paper company serving Northeastern Pennsylvania."
             },
-            "position": "Assistant To The Regional Manager",
-            "startDate": "2005-03",
-            "endDate": "2013-05",
-            "summary": "Supported branch leadership while driving top-tier sales performance and enforcing office procedures.",
+            "position": "Assistant to the Regional Manager",
+            "startDate": "2005",
+            "summary": "Senior sales specialist and second-in-command, supporting branch leadership while managing enterprise accounts and training new reps.",
             "highlights": [
-                "Consistently Ranked Top Salesperson In Scranton Branch",
-                "Spearheaded Office Safety And Emergency Preparedness Drills",
-                "Implemented Structured Lead Tracking System Increasing Close Rate"
+                "Consistently top 1–2 in quarterly sales across the company",
+                "Developed a rapid-response client retention playbook used branch-wide",
+                "Instituted emergency readiness drills improving evacuation times",
+                "Led temporary command during crises, maintaining sales continuity"
             ],
-            "location": {
-                "city": "Scranton",
-                "countryCode": "US"
-            },
-            "tags": ["Sales", "Operations", "Leadership", "CRM"],
-            "url": "https://www.dundermifflin.com"
+            "references": [{
+                "date": "2011-05",
+                "name": "Michael Scott",
+                "position": "Regional Manager",
+                "testimonial": "Dwight is loyal, fearless, and weirdly effective. If I needed someone to sell paper and defend the office at the same time, it’s Dwight.",
+                "contact": {
+                    "email": "michael.scott@example.com",
+                    "linkedin": "https://www.linkedin.com/in/michael-scott"
+                }
+            }],
+            "tags": ["Sales", "Leadership", "Training", "Crisis Management"],
+            "url": "https://www.dundermifflin.example.com/scranton"
         },
         {
+            "type": "internal",
             "organization": {
-                "name": "Dunder Mifflin Paper Company",
+                "name": "Dunder Mifflin Scranton Branch",
                 "location": {
                     "city": "Scranton",
-                    "countryCode": "US",
-                    "region": "Pennsylvania"
-                },
-                "description": "Regional branch of a mid-size paper distributor serving Northeastern Pennsylvania."
+                    "countryCode": "US"
+                }
             },
             "position": "Regional Manager",
-            "startDate": "2011-11",
-            "endDate": "2012-02",
-            "summary": "Led Scranton branch operations, sales strategy, and team performance as acting Regional Manager.",
+            "startDate": "2011",
+            "endDate": "2011-10",
+            "summary": "Acting branch leader overseeing operations, sales targets, and staff performance.",
             "highlights": [
-                "Maintained Branch Profitability During Leadership Transition",
-                "Introduced Territory Discipline And Daily Sales Standups",
-                "Mentored Sales Team On Competitive Tactics"
+                "Exceeded quarterly revenue target by optimizing territory assignments",
+                "Implemented structured ride-alongs and call reviews for skills uplift",
+                "Standardized sales desk readiness and prospecting cadences"
             ],
-            "location": {
-                "city": "Scranton",
-                "countryCode": "US"
-            },
-            "tags": ["Management", "P And L", "Coaching"]
+            "tags": ["Operations", "Territory Planning", "Performance Management"]
         }
     ],
-    "projects": [{
-        "name": "Schrute Farms Bed And Breakfast",
-        "position": "Owner",
-        "organization": {
-            "name": "Schrute Farms",
-            "location": {
-                "city": "Honesdale",
-                "countryCode": "US",
-                "region": "Pennsylvania"
-            },
-            "description": "Family Beet Farm And Rustic Hospitality Venue."
-        },
-        "summary": "Founded and operate a working beet farm and bed-and-breakfast known for unique agritourism experiences.",
-        "startDate": "1997",
-        "status": "Active",
-        "highlights": [
-            "Achieved Year-Round Occupancy Through Niche Positioning",
-            "Developed Farm-To-Table Offerings And Tours",
-            "Maintained Five-Star Reviews For Authentic Experience"
-        ],
-        "location": {
-            "city": "Honesdale",
-            "countryCode": "US"
-        },
-        "tags": ["Hospitality", "Agriculture", "Small Business"],
-        "type": "Entrepreneurship",
-        "url": "https://www.schrutefarms.com"
-    }],
-    "awards": [{
-        "title": "Salesman Of The Year",
-        "issuer": {
-            "name": "Dunder Mifflin Paper Company",
-            "location": {
-                "city": "Scranton",
-                "countryCode": "US"
-            },
-            "description": "Annual Recognition For Top Sales Performance."
-        },
-        "date": "2008",
-        "location": {
-            "city": "Scranton",
-            "countryCode": "US"
-        },
-        "summary": "Recognized for leading revenue, client retention, and new account wins.",
-        "tags": ["Sales", "Recognition"]
-    }],
-    "certificates": [{
-            "date": "2009-06",
-            "issuer": {
-                "name": "American Red Cross",
-                "location": {
-                    "city": "Scranton",
-                    "countryCode": "US"
-                },
-                "description": "Emergency Response Training Organization."
-            },
-            "name": "CPR And First Aid",
-            "summary": "Certified in adult CPR, AED, and basic first aid.",
-            "url": "https://www.redcross.org",
-            "tags": ["Safety", "First Aid"]
+    "skills": [{
+            "name": "Enterprise Sales",
+            "level": "expert",
+            "yearsOfExperience": 12,
+            "tags": ["Prospecting", "Account Management", "Retention"]
         },
         {
-            "date": "2010-03",
-            "issuer": {
-                "name": "Scranton Community College",
-                "location": {
-                    "city": "Scranton",
-                    "countryCode": "US"
-                },
-                "description": "Local Higher Education Institution."
-            },
-            "name": "Conflict Resolution Workshop",
-            "summary": "Completed intensive workshop in negotiation and de-escalation.",
-            "url": "https://www.example.edu",
-            "tags": ["Negotiation", "Communication"]
+            "name": "Negotiation",
+            "level": "advanced",
+            "yearsOfExperience": 10,
+            "tags": ["Competitive Defense", "Objection Handling"]
+        },
+        {
+            "name": "Security and Compliance",
+            "level": "advanced",
+            "yearsOfExperience": 8,
+            "tags": ["Policy Enforcement", "Emergency Preparedness"]
+        },
+        {
+            "name": "Agriculture",
+            "level": "advanced",
+            "yearsOfExperience": 15,
+            "tags": ["Beet Farming", "Hospitality", "Logistics"]
+        },
+        {
+            "name": "Martial Arts",
+            "level": "advanced",
+            "yearsOfExperience": 7,
+            "tags": ["Karate", "Self-Defense"]
         }
     ],
     "education": [{
         "area": "Business Administration",
         "organization": {
-            "name": "Lackawanna College",
+            "name": "Scranton Community College",
             "location": {
                 "city": "Scranton",
                 "countryCode": "US"
-            },
-            "description": "Community College Offering Associate Programs."
+            }
         },
-        "startDate": "1993",
-        "endDate": "1995",
+        "startDate": "2001",
+        "endDate": "2003",
         "type": "Associate Degree",
-        "location": {
-            "city": "Scranton",
-            "countryCode": "US"
-        },
-        "url": "https://www.lackawanna.edu"
+        "url": "https://www.scrantoncc.example.edu"
     }],
+    "initiatives": [{
+        "summary": "Scaled Schrute Farms from a family beet farm into a niche agritourism destination offering farm stays, table dinners, and seasonal events.",
+        "endDate": "2023-09",
+        "organization": {
+            "name": "Schrute Farms",
+            "location": {
+                "city": "Honesdale",
+                "countryCode": "US"
+            },
+            "description": "Historic beet farm and bed-and-breakfast."
+        },
+        "highlights": [
+            "Increased annual bookings by 60% through off-season experiences",
+            "Built direct-to-consumer channel with recurring produce subscriptions",
+            "Established safety and guest SOPs cutting incident rate to near zero"
+        ],
+        "location": {
+            "city": "Honesdale",
+            "countryCode": "US",
+            "region": "Pennsylvania"
+        },
+        "name": "Schrute Farms Agritourism Expansion",
+        "position": "Owner-Operator",
+        "references": [{
+            "date": "2022-11",
+            "name": "Angela Martin",
+            "position": "Accounting Supervisor",
+            "testimonial": "Meticulous books, uncompromising standards, and surprisingly delightful beet-based experiences.",
+            "contact": {
+                "email": "angela.martin@example.com"
+            }
+        }],
+        "startDate": "2018-04",
+        "status": "Completed",
+        "tags": ["Startup", "Hospitality", "Ecommerce"],
+        "type": "startup",
+        "url": "https://www.schrutefarms.example.com"
+    }],
+    "certificates": [{
+        "date": "2019-06",
+        "issuer": {
+            "name": "American Red Cross",
+            "location": {
+                "city": "Washington",
+                "countryCode": "US",
+                "region": "District of Columbia"
+            },
+            "description": "Emergency response training and certification."
+        },
+        "name": "CPR/AED Certification",
+        "summary": "Certified in adult and child CPR and AED usage; maintains annual refreshers.",
+        "url": "https://www.redcross.org/take-a-class/cpr",
+        "tags": ["Safety", "Emergency Response"]
+    }],
+    "publications": [{
+        "authors": ["Dwight Schrute"],
+        "doi": "SF-AG-2021-DFB",
+        "name": "The Definitive Field Guide to Beets (Northeast Edition)",
+        "publisher": {
+            "name": "Schrute Farms Press",
+            "location": {
+                "city": "Honesdale",
+                "countryCode": "US"
+            },
+            "description": "Specialty agricultural pamphlets and guides."
+        },
+        "date": "2021-10",
+        "summary": "A practical handbook covering varietals, soil prep, pest deterrence, and harvest logistics—optimized for small-scale commercial beet operations.",
+        "tags": ["Agriculture", "Beets", "Logistics"],
+        "type": "book",
+        "url": "https://www.schrutefarms.example.com/guides/beets"
+    }],
+    "interests": [{
+            "name": "Survivalism",
+            "summary": "Preparedness, shelter building, and resource planning."
+        },
+        {
+            "name": "Karate",
+            "tags": ["Discipline", "Competition"]
+        }
+    ],
     "languages": [{
             "name": "English",
-            "fluency": "Native",
+            "fluency": "fluent",
             "countryCode": "US"
         },
         {
             "name": "German",
-            "fluency": "Conversational",
+            "fluency": "limited-working",
             "countryCode": "DE"
         }
     ],
-    "skills": [{
-            "name": "Sales",
-            "level": "Expert",
-            "yearsOfExperience": 15,
-            "tags": ["B2B", "Cold Calling", "Account Management"]
-        },
-        {
-            "name": "Operations",
-            "level": "Advanced",
-            "yearsOfExperience": 10,
-            "tags": ["Process Improvement", "Inventory", "Scheduling"]
-        },
-        {
-            "name": "Beet Farming",
-            "level": "Advanced",
-            "yearsOfExperience": 20,
-            "tags": ["Agriculture", "Irrigation", "Soil Management"]
-        },
-        {
-            "name": "Self Defense",
-            "level": "Advanced",
-            "yearsOfExperience": 12,
-            "tags": ["Discipline", "Training"]
-        },
-        {
-            "name": "Leadership",
-            "level": "Advanced",
-            "yearsOfExperience": 8,
-            "tags": ["Coaching", "Team Building", "Discipline"]
-        }
-    ],
-    "interests": [{
-            "name": "Martial Arts",
-            "summary": "Dedicated practice with emphasis on discipline, awareness, and preparedness.",
-            "tags": ["Training", "Fitness"]
-        },
-        {
-            "name": "Survivalism",
-            "summary": "Preparedness strategies including first aid, risk assessment, and logistics.",
-            "tags": ["Preparedness", "Outdoors"]
-        },
-        {
-            "name": "Classic Rock",
-            "summary": "Enjoys high-energy music that fuels focus and performance.",
-            "tags": ["Music"]
-        }
-    ],
-    "references": [{
-        "date": "2012-01",
-        "name": "Michael Scott",
-        "position": "Regional Manager",
-        "organization": {
-            "name": "Dunder Mifflin Paper Company",
-            "location": {
-                "city": "Scranton",
-                "countryCode": "US"
-            },
-            "description": "Regional branch leader and mentor."
-        },
-        "testimonial": "Dwight Delivers Results And Brings Unmatched Commitment To The Team."
-    }],
     "meta": {
-        "lastModified": "2025-08-13",
-        "schema": "@universal-resume/v1.2.0"
+        "lastModified": "2025-08-14",
+        "schema": "universal-resume-v2.0.0"
     }
 }
