@@ -1,21 +1,15 @@
-import { readFileSync } from 'fs'
-
-const get = (name: string) => () => {
-    return JSON.parse(readFileSync(`./examples/${name}.json`, 'utf8'))
-}
-
 export const examples = [
     {
         name: "Dwight Schrute",
-        get: get('dwight-schrute')
+        location: "./examples/dwight-schrute.json"
     },
     {
         name: "Bill Palmer",
-        get: get('bill-palmer')
+        location: "./examples/bill-palmer.json"
     },
     {
         name: "Harry Potter",
-        get: get('harry-potter')
+        location: "./examples/harry-potter.json"
     },
 ]
 
