@@ -2,7 +2,7 @@
 	"basics": {
 		"headline": "Stand-up Comedian & Actor",
 		"name": "Jerry Seinfeld",
-		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.0/examples/jerry-seinfeld/picture.png",
+		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.1/examples/jerry-seinfeld/picture.png",
 		"availability": "Flexible",
 		"location": {
 			"city": "New York",

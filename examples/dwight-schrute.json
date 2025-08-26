@@ -2,7 +2,7 @@
 	"basics": {
 		"headline": "Assistant to the Regional Manager",
 		"name": "Dwight Schrute",
-		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.0/examples/dwight-schrute/picture.png",
+		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.1/examples/dwight-schrute/picture.png",
 		"availability": "Two Weeks",
 		"location": {
 			"city": "Scranton",
