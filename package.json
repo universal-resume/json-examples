@@ -1,25 +1,25 @@
 {
-    "name": "@universal-resume/json-examples",
-    "version": "0.1.2",
-    "description": "A list of json universal-resume examples you can use for mocks, demos or placeholders",
-    "main": "index.ts",
-    "type": "module",
-    "scripts": {
-        "build": "tsc --project ./tsconfig.json",
-        "check": "biome check .",
-        "format": "biome format . --write",
-        "lint": "biome lint .",
-        "test": "vitest"
-    },
-    "author": "Alexis Besson",
-    "license": "MIT",
-    "dependencies": {
-        "ts-node": "^10.9.2"
-    },
-    "devDependencies": {
-        "@biomejs/biome": "^2.1.2",
-        "@types/node": "^24.1.0",
-        "typescript": "^5.8.3",
-        "vitest": "^3.2.4"
-    }
+	"name": "@universal-resume/json-examples",
+	"version": "2.0.0",
+	"description": "A list of json universal-resume examples you can use for mocks, demos or placeholders",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {
+		"build": "tsc --project ./tsconfig.json",
+		"check": "biome check .",
+		"format": "biome format . --write",
+		"lint": "biome lint .",
+		"test": "vitest"
+	},
+	"author": "Alexis Besson",
+	"license": "MIT",
+	"dependencies": {
+		"ts-node": "^10.9.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.1.2",
+		"@types/node": "^24.1.0",
+		"typescript": "^5.8.3",
+		"vitest": "^3.2.4"
+	}
 }

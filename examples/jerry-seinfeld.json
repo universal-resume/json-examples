@@ -1,0 +1,236 @@
+{
+	"basics": {
+		"headline": "Stand-up Comedian & Actor",
+		"name": "Jerry Seinfeld",
+		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.0/examples/jerry-seinfeld/picture.png",
+		"availability": "Flexible",
+		"location": {
+			"city": "New York",
+			"countryCode": "US",
+			"region": "New York"
+		},
+		"contact": {
+			"email": "jerry.seinfeld@example.com",
+			"phone": "+12125559876",
+			"linkedin": "https://www.linkedin.com/in/jerry-seinfeld"
+		},
+		"summary": "Renowned stand-up comedian and actor, known for observational humor and creating one of the most successful sitcoms in television history. Experienced performer with decades of live shows, writing, and television production.",
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/jerry-seinfeld",
+				"username": "jerry-seinfeld"
+			},
+			{
+				"network": "Instagram",
+				"url": "https://www.instagram.com/jerryseinfeld",
+				"username": "jerryseinfeld"
+			},
+			{
+				"network": "X",
+				"url": "https://x.com/JerrySeinfeld",
+				"username": "JerrySeinfeld"
+			}
+		],
+		"remote": true
+	},
+	"employments": [
+		{
+			"type": "freelance",
+			"organization": {
+				"name": "Comedy Clubs Nationwide",
+				"location": {
+					"city": "Various",
+					"countryCode": "US"
+				},
+				"description": "Live performance venues including The Improv, The Comedy Cellar, and national theaters."
+			},
+			"position": "Stand-up Comedian",
+			"startDate": "1980",
+			"summary": "Performed live observational comedy in clubs, theaters, and arenas across the United States and internationally.",
+			"highlights": [
+				"Performed on late-night shows including The Tonight Show and Late Night with David Letterman",
+				"Built a reputation as a leading observational comic of his generation",
+				"Consistently sold out national tours"
+			],
+			"references": [
+				{
+					"date": "1990-05",
+					"name": "George Shapiro",
+					"position": "Manager",
+					"testimonial": "Jerry’s comedic voice defined an era of observational humor and resonated with millions worldwide.",
+					"contact": {
+						"email": "george.shapiro@example.com"
+					}
+				}
+			],
+			"tags": ["Comedy", "Performance", "Writing"],
+			"url": "https://www.jerryseinfeld.example.com/tour"
+		},
+		{
+			"type": "internal",
+			"organization": {
+				"name": "NBC Television",
+				"location": {
+					"city": "New York",
+					"countryCode": "US"
+				},
+				"description": "American broadcast television network."
+			},
+			"position": "Co-Creator & Actor",
+			"startDate": "1989",
+			"endDate": "1998",
+			"summary": "Co-created and starred in the sitcom 'Seinfeld,' widely considered one of the most successful and influential shows in television history.",
+			"highlights": [
+				"Starred as a fictionalized version of himself for nine seasons",
+				"Show won multiple Emmy and Golden Globe awards",
+				"Redefined the sitcom format with its 'show about nothing' approach"
+			],
+			"tags": ["Television", "Writing", "Acting", "Production"],
+			"url": "https://www.nbc.example.com/seinfeld"
+		}
+	],
+	"skills": [
+		{
+			"name": "Stand-up Comedy",
+			"level": "expert",
+			"yearsOfExperience": 40,
+			"tags": ["Observational Humor", "Timing", "Storytelling"]
+		},
+		{
+			"name": "Acting",
+			"level": "advanced",
+			"yearsOfExperience": 30,
+			"tags": ["Sitcoms", "Television"]
+		},
+		{
+			"name": "Writing",
+			"level": "advanced",
+			"yearsOfExperience": 35,
+			"tags": ["Scriptwriting", "Monologues", "Essays"]
+		},
+		{
+			"name": "Public Speaking",
+			"level": "advanced",
+			"yearsOfExperience": 25,
+			"tags": ["Live Audience", "Keynotes", "Comedy Specials"]
+		}
+	],
+	"education": [
+		{
+			"area": "Communications & Theater",
+			"organization": {
+				"name": "Queens College, City University of New York",
+				"location": {
+					"city": "Queens",
+					"countryCode": "US"
+				}
+			},
+			"startDate": "1976",
+			"endDate": "1980",
+			"type": "Bachelor of Arts",
+			"url": "https://www.qc.cuny.example.edu",
+			"courses": [
+				{
+					"name": "Theater Arts",
+					"summary": "Training in stagecraft, acting, and performance techniques."
+				},
+				{
+					"name": "Mass Communication",
+					"summary": "Studied media, broadcasting, and public presentation."
+				},
+				{
+					"name": "Creative Writing",
+					"summary": "Focused on narrative and comedic writing."
+				}
+			]
+		}
+	],
+	"initiatives": [
+		{
+			"summary": "Created a web series showcasing conversations with comedians while driving and sharing coffee.",
+			"organization": {
+				"name": "Sony Pictures Television",
+				"location": {
+					"city": "Culver City",
+					"countryCode": "US"
+				},
+				"description": "Television and digital media production studio."
+			},
+			"highlights": [
+				"Featured over 80 prominent comedians and actors",
+				"Innovative digital-first format attracted millions of viewers",
+				"Series later acquired by Netflix"
+			],
+			"location": {
+				"city": "New York",
+				"countryCode": "US"
+			},
+			"name": "Comedians in Cars Getting Coffee",
+			"position": "Creator & Host",
+			"startDate": "2012",
+			"endDate": "2019",
+			"status": "Completed",
+			"tags": ["Web Series", "Comedy", "Media Innovation"],
+			"type": "startup",
+			"url": "https://www.netflix.example.com/comedians-in-cars"
+		}
+	],
+	"certificates": [
+		{
+			"date": "2012-06",
+			"issuer": {
+				"name": "Mark Twain Prize for American Humor",
+				"location": {
+					"city": "Washington",
+					"countryCode": "US"
+				},
+				"description": "Award presented by the Kennedy Center."
+			},
+			"name": "Mark Twain Prize",
+			"summary": "Honored for lifetime achievement in comedy.",
+			"url": "https://www.kennedy-center.example.com/marktwain",
+			"tags": ["Comedy", "Award", "Lifetime Achievement"]
+		}
+	],
+	"publications": [
+		{
+			"authors": ["Jerry Seinfeld"],
+			"doi": "ISBN-978-0385333157",
+			"name": "Seinlanguage",
+			"publisher": {
+				"name": "Bantam Books",
+				"location": {
+					"city": "New York",
+					"countryCode": "US"
+				}
+			},
+			"date": "1993",
+			"summary": "A bestselling book compiling Jerry’s observational humor and comedic insights.",
+			"tags": ["Comedy", "Humor", "Observations"],
+			"type": "book",
+			"url": "https://www.penguinrandomhouse.example.com/seinlanguage"
+		}
+	],
+	"interests": [
+		{
+			"name": "Classic Cars",
+			"summary": "Collector and enthusiast of vintage cars."
+		},
+		{
+			"name": "Baseball",
+			"tags": ["New York Mets", "Sports"]
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"fluency": "fluent",
+			"countryCode": "US"
+		}
+	],
+	"meta": {
+		"lastModified": "2025-08-26",
+		"schema": "universal-resume-v2.0.0"
+	}
+}

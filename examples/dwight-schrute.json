@@ -1,229 +1,247 @@
 {
-    "basics": {
-        "headline": "Assistant to the Regional Manager",
-        "name": "Dwight Schrute",
-        "availability": "Two Weeks",
-        "location": {
-            "city": "Scranton",
-            "countryCode": "US",
-            "region": "Pennsylvania"
-        },
-        "contact": {
-            "email": "dwight.schrute@example.com",
-            "phone": "+15705550100",
-            "linkedin": "https://www.linkedin.com/in/dwight-schrute"
-        },
-        "summary": "Top-performing paper salesman and beet farmer known for relentless work ethic, encyclopedic policy knowledge, and unconventional (yet effective) leadership tactics. Expert in prospecting, territory defense, risk mitigation, and farm-to-table operations.",
-        "profiles": [{
-                "network": "LinkedIn",
-                "url": "https://www.linkedin.com/in/dwight-schrute",
-                "username": "dwight-schrute"
-            },
-            {
-                "network": "Instagram",
-                "url": "https://www.instagram.com/schrutefarms",
-                "username": "schrutefarms"
-            },
-            {
-                "network": "X",
-                "url": "https://x.com/D_Schrute",
-                "username": "D_Schrute"
-            }
-        ],
-        "remote": false
-    },
-    "employments": [{
-            "type": "internal",
-            "organization": {
-                "name": "Dunder Mifflin Scranton Branch",
-                "location": {
-                    "city": "Scranton",
-                    "countryCode": "US"
-                },
-                "description": "Regional office of a mid-sized paper company serving Northeastern Pennsylvania."
-            },
-            "position": "Assistant to the Regional Manager",
-            "startDate": "2005",
-            "summary": "Senior sales specialist and second-in-command, supporting branch leadership while managing enterprise accounts and training new reps.",
-            "highlights": [
-                "Consistently top 1–2 in quarterly sales across the company",
-                "Developed a rapid-response client retention playbook used branch-wide",
-                "Instituted emergency readiness drills improving evacuation times",
-                "Led temporary command during crises, maintaining sales continuity"
-            ],
-            "references": [{
-                "date": "2011-05",
-                "name": "Michael Scott",
-                "position": "Regional Manager",
-                "testimonial": "Dwight is loyal, fearless, and weirdly effective. If I needed someone to sell paper and defend the office at the same time, it’s Dwight.",
-                "contact": {
-                    "email": "michael.scott@example.com",
-                    "linkedin": "https://www.linkedin.com/in/michael-scott"
-                }
-            }],
-            "tags": ["Sales", "Leadership", "Training", "Crisis Management"],
-            "url": "https://www.dundermifflin.example.com/scranton"
-        },
-        {
-            "type": "internal",
-            "organization": {
-                "name": "Dunder Mifflin Scranton Branch",
-                "location": {
-                    "city": "Scranton",
-                    "countryCode": "US"
-                }
-            },
-            "position": "Regional Manager",
-            "startDate": "2011",
-            "endDate": "2011-10",
-            "summary": "Acting branch leader overseeing operations, sales targets, and staff performance.",
-            "highlights": [
-                "Exceeded quarterly revenue target by optimizing territory assignments",
-                "Implemented structured ride-alongs and call reviews for skills uplift",
-                "Standardized sales desk readiness and prospecting cadences"
-            ],
-            "tags": ["Operations", "Territory Planning", "Performance Management"]
-        }
-    ],
-    "skills": [{
-            "name": "Enterprise Sales",
-            "level": "expert",
-            "yearsOfExperience": 12,
-            "tags": ["Prospecting", "Account Management", "Retention"]
-        },
-        {
-            "name": "Negotiation",
-            "level": "advanced",
-            "yearsOfExperience": 10,
-            "tags": ["Competitive Defense", "Objection Handling"]
-        },
-        {
-            "name": "Security and Compliance",
-            "level": "advanced",
-            "yearsOfExperience": 8,
-            "tags": ["Policy Enforcement", "Emergency Preparedness"]
-        },
-        {
-            "name": "Agriculture",
-            "level": "advanced",
-            "yearsOfExperience": 15,
-            "tags": ["Beet Farming", "Hospitality", "Logistics"]
-        },
-        {
-            "name": "Martial Arts",
-            "level": "advanced",
-            "yearsOfExperience": 7,
-            "tags": ["Karate", "Self-Defense"]
-        }
-    ],
-    "education": [{
-        "area": "Business Administration",
-        "organization": {
-            "name": "Scranton Community College",
-            "location": {
-                "city": "Scranton",
-                "countryCode": "US"
-            }
-        },
-        "startDate": "2001",
-        "endDate": "2003",
-        "type": "Associate Degree",
-        "url": "https://www.scrantoncc.example.edu"
-    }],
-    "initiatives": [{
-        "summary": "Scaled Schrute Farms from a family beet farm into a niche agritourism destination offering farm stays, table dinners, and seasonal events.",
-        "endDate": "2023-09",
-        "organization": {
-            "name": "Schrute Farms",
-            "location": {
-                "city": "Honesdale",
-                "countryCode": "US"
-            },
-            "description": "Historic beet farm and bed-and-breakfast."
-        },
-        "highlights": [
-            "Increased annual bookings by 60% through off-season experiences",
-            "Built direct-to-consumer channel with recurring produce subscriptions",
-            "Established safety and guest SOPs cutting incident rate to near zero"
-        ],
-        "location": {
-            "city": "Honesdale",
-            "countryCode": "US",
-            "region": "Pennsylvania"
-        },
-        "name": "Schrute Farms Agritourism Expansion",
-        "position": "Owner-Operator",
-        "references": [{
-            "date": "2022-11",
-            "name": "Angela Martin",
-            "position": "Accounting Supervisor",
-            "testimonial": "Meticulous books, uncompromising standards, and surprisingly delightful beet-based experiences.",
-            "contact": {
-                "email": "angela.martin@example.com"
-            }
-        }],
-        "startDate": "2018-04",
-        "status": "Completed",
-        "tags": ["Startup", "Hospitality", "Ecommerce"],
-        "type": "startup",
-        "url": "https://www.schrutefarms.example.com"
-    }],
-    "certificates": [{
-        "date": "2019-06",
-        "issuer": {
-            "name": "American Red Cross",
-            "location": {
-                "city": "Washington",
-                "countryCode": "US",
-                "region": "District of Columbia"
-            },
-            "description": "Emergency response training and certification."
-        },
-        "name": "CPR/AED Certification",
-        "summary": "Certified in adult and child CPR and AED usage; maintains annual refreshers.",
-        "url": "https://www.redcross.org/take-a-class/cpr",
-        "tags": ["Safety", "Emergency Response"]
-    }],
-    "publications": [{
-        "authors": ["Dwight Schrute"],
-        "doi": "SF-AG-2021-DFB",
-        "name": "The Definitive Field Guide to Beets (Northeast Edition)",
-        "publisher": {
-            "name": "Schrute Farms Press",
-            "location": {
-                "city": "Honesdale",
-                "countryCode": "US"
-            },
-            "description": "Specialty agricultural pamphlets and guides."
-        },
-        "date": "2021-10",
-        "summary": "A practical handbook covering varietals, soil prep, pest deterrence, and harvest logistics—optimized for small-scale commercial beet operations.",
-        "tags": ["Agriculture", "Beets", "Logistics"],
-        "type": "book",
-        "url": "https://www.schrutefarms.example.com/guides/beets"
-    }],
-    "interests": [{
-            "name": "Survivalism",
-            "summary": "Preparedness, shelter building, and resource planning."
-        },
-        {
-            "name": "Karate",
-            "tags": ["Discipline", "Competition"]
-        }
-    ],
-    "languages": [{
-            "name": "English",
-            "fluency": "fluent",
-            "countryCode": "US"
-        },
-        {
-            "name": "German",
-            "fluency": "limited-working",
-            "countryCode": "DE"
-        }
-    ],
-    "meta": {
-        "lastModified": "2025-08-14",
-        "schema": "universal-resume-v2.0.0"
-    }
+	"basics": {
+		"headline": "Assistant to the Regional Manager",
+		"name": "Dwight Schrute",
+		"picture": "https://unpkg.com/@universal-resume/json-examples@2.0.0/examples/dwight-schrute/picture.png",
+		"availability": "Two Weeks",
+		"location": {
+			"city": "Scranton",
+			"countryCode": "US",
+			"region": "Pennsylvania"
+		},
+		"contact": {
+			"email": "dwight.schrute@example.com",
+			"phone": "+15705550100",
+			"linkedin": "https://www.linkedin.com/in/dwight-schrute"
+		},
+		"summary": "Top-performing paper salesman and beet farmer known for relentless work ethic, encyclopedic policy knowledge, and unconventional (yet effective) leadership tactics. Expert in prospecting, territory defense, risk mitigation, and farm-to-table operations.",
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/dwight-schrute",
+				"username": "dwight-schrute"
+			},
+			{
+				"network": "Instagram",
+				"url": "https://www.instagram.com/schrutefarms",
+				"username": "schrutefarms"
+			},
+			{
+				"network": "X",
+				"url": "https://x.com/D_Schrute",
+				"username": "D_Schrute"
+			}
+		],
+		"remote": false
+	},
+	"employments": [
+		{
+			"type": "internal",
+			"organization": {
+				"name": "Dunder Mifflin Scranton Branch",
+				"location": {
+					"city": "Scranton",
+					"countryCode": "US"
+				},
+				"description": "Regional office of a mid-sized paper company serving Northeastern Pennsylvania."
+			},
+			"position": "Assistant to the Regional Manager",
+			"startDate": "2005",
+			"summary": "Senior sales specialist and second-in-command, supporting branch leadership while managing enterprise accounts and training new reps.",
+			"highlights": [
+				"Consistently top 1–2 in quarterly sales across the company",
+				"Developed a rapid-response client retention playbook used branch-wide",
+				"Instituted emergency readiness drills improving evacuation times",
+				"Led temporary command during crises, maintaining sales continuity"
+			],
+			"references": [
+				{
+					"date": "2011-05",
+					"name": "Michael Scott",
+					"position": "Regional Manager",
+					"testimonial": "Dwight is loyal, fearless, and weirdly effective. If I needed someone to sell paper and defend the office at the same time, it’s Dwight.",
+					"contact": {
+						"email": "michael.scott@example.com",
+						"linkedin": "https://www.linkedin.com/in/michael-scott"
+					}
+				}
+			],
+			"tags": ["Sales", "Leadership", "Training", "Crisis Management"],
+			"url": "https://www.dundermifflin.example.com/scranton"
+		},
+		{
+			"type": "internal",
+			"organization": {
+				"name": "Dunder Mifflin Scranton Branch",
+				"location": {
+					"city": "Scranton",
+					"countryCode": "US"
+				}
+			},
+			"position": "Regional Manager",
+			"startDate": "2011",
+			"endDate": "2011-10",
+			"summary": "Acting branch leader overseeing operations, sales targets, and staff performance.",
+			"highlights": [
+				"Exceeded quarterly revenue target by optimizing territory assignments",
+				"Implemented structured ride-alongs and call reviews for skills uplift",
+				"Standardized sales desk readiness and prospecting cadences"
+			],
+			"tags": ["Operations", "Territory Planning", "Performance Management"]
+		}
+	],
+	"skills": [
+		{
+			"name": "Enterprise Sales",
+			"level": "expert",
+			"yearsOfExperience": 12,
+			"tags": ["Prospecting", "Account Management", "Retention"]
+		},
+		{
+			"name": "Negotiation",
+			"level": "advanced",
+			"yearsOfExperience": 10,
+			"tags": ["Competitive Defense", "Objection Handling"]
+		},
+		{
+			"name": "Security and Compliance",
+			"level": "advanced",
+			"yearsOfExperience": 8,
+			"tags": ["Policy Enforcement", "Emergency Preparedness"]
+		},
+		{
+			"name": "Agriculture",
+			"level": "advanced",
+			"yearsOfExperience": 15,
+			"tags": ["Beet Farming", "Hospitality", "Logistics"]
+		},
+		{
+			"name": "Martial Arts",
+			"level": "advanced",
+			"yearsOfExperience": 7,
+			"tags": ["Karate", "Self-Defense"]
+		}
+	],
+	"education": [
+		{
+			"area": "Business Administration",
+			"organization": {
+				"name": "Scranton Community College",
+				"location": {
+					"city": "Scranton",
+					"countryCode": "US"
+				}
+			},
+			"startDate": "2001",
+			"endDate": "2003",
+			"type": "Associate Degree",
+			"url": "https://www.scrantoncc.example.edu"
+		}
+	],
+	"initiatives": [
+		{
+			"summary": "Scaled Schrute Farms from a family beet farm into a niche agritourism destination offering farm stays, table dinners, and seasonal events.",
+			"endDate": "2023-09",
+			"organization": {
+				"name": "Schrute Farms",
+				"location": {
+					"city": "Honesdale",
+					"countryCode": "US"
+				},
+				"description": "Historic beet farm and bed-and-breakfast."
+			},
+			"highlights": [
+				"Increased annual bookings by 60% through off-season experiences",
+				"Built direct-to-consumer channel with recurring produce subscriptions",
+				"Established safety and guest SOPs cutting incident rate to near zero"
+			],
+			"location": {
+				"city": "Honesdale",
+				"countryCode": "US",
+				"region": "Pennsylvania"
+			},
+			"name": "Schrute Farms Agritourism Expansion",
+			"position": "Owner-Operator",
+			"references": [
+				{
+					"date": "2022-11",
+					"name": "Angela Martin",
+					"position": "Accounting Supervisor",
+					"testimonial": "Meticulous books, uncompromising standards, and surprisingly delightful beet-based experiences.",
+					"contact": {
+						"email": "angela.martin@example.com"
+					}
+				}
+			],
+			"startDate": "2018-04",
+			"status": "Completed",
+			"tags": ["Startup", "Hospitality", "Ecommerce"],
+			"type": "startup",
+			"url": "https://www.schrutefarms.example.com"
+		}
+	],
+	"certificates": [
+		{
+			"date": "2019-06",
+			"issuer": {
+				"name": "American Red Cross",
+				"location": {
+					"city": "Washington",
+					"countryCode": "US",
+					"region": "District of Columbia"
+				},
+				"description": "Emergency response training and certification."
+			},
+			"name": "CPR/AED Certification",
+			"summary": "Certified in adult and child CPR and AED usage; maintains annual refreshers.",
+			"url": "https://www.redcross.org/take-a-class/cpr",
+			"tags": ["Safety", "Emergency Response"]
+		}
+	],
+	"publications": [
+		{
+			"authors": ["Dwight Schrute"],
+			"doi": "SF-AG-2021-DFB",
+			"name": "The Definitive Field Guide to Beets (Northeast Edition)",
+			"publisher": {
+				"name": "Schrute Farms Press",
+				"location": {
+					"city": "Honesdale",
+					"countryCode": "US"
+				},
+				"description": "Specialty agricultural pamphlets and guides."
+			},
+			"date": "2021-10",
+			"summary": "A practical handbook covering varietals, soil prep, pest deterrence, and harvest logistics—optimized for small-scale commercial beet operations.",
+			"tags": ["Agriculture", "Beets", "Logistics"],
+			"type": "book",
+			"url": "https://www.schrutefarms.example.com/guides/beets"
+		}
+	],
+	"interests": [
+		{
+			"name": "Survivalism",
+			"summary": "Preparedness, shelter building, and resource planning."
+		},
+		{
+			"name": "Karate",
+			"tags": ["Discipline", "Competition"]
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"fluency": "fluent",
+			"countryCode": "US"
+		},
+		{
+			"name": "German",
+			"fluency": "limited-working",
+			"countryCode": "DE"
+		}
+	],
+	"meta": {
+		"lastModified": "2025-08-14",
+		"schema": "universal-resume-v2.0.0"
+	}
 }
